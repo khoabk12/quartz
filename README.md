@@ -1,18 +1,30 @@
-# Quartz v4
+---
+title: Welcome to My PKM
+draft: false
+tags:
+  - PKM
+  - Knowledge_Hub
+date: 2024-05-31T14:22:01+07:00
+---
+# Introduction
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Hello everyone,
+My name is Khoa, I'm a developer since 2017. Started my expertise as an Android Developer, I had a chance to explore more interesting fields with various type of requirements an tricky issues when joining .[Officience](https://officience.com/) in 2021. 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+As a former Developer of [Officience](https://officience.com/), I've built this knowledge base to share the practical tips and tricks I picked up along the way. My goal is to empower other developers, especially Offies, to be more efficient and effective in their daily work.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+# Overview
+There are three main topics in this PKM: 
+- [[Android]] 
+- [[VBA]] 
+- [[Power Platform]]
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+# How to use this 
+1. Browsing
+You can browsing through topics & articles
+2. Tags
+3. Graph View
+4. FAQs
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Visit at: [Here](https://github.com/khoabk12/quartz)
+Thank you for great tool: [Quartz](https://quartz.jzhao.xyz/)
