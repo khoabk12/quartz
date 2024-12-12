@@ -4,7 +4,7 @@ draft: false
 tags:
   - PKM
   - Knowledge_Hub
-date: 2024-06-05T15:32:58+07:00
+date: 2024-12-12T13:55:07+07:00
 ---
 # Welcome to Nguyen Dang Khoa's Personal Knowledge Management (PKM)
 
@@ -50,7 +50,7 @@ This PKM is designed for:
 ## How to Use This
 1. **Browse the Knowledge Hubs**: Explore topics like mobile development, automation, and project management through linked notes and tags.
 2. **Leverage Maps of Content (MOCs)**: Use the "Maps of Content" pages for an overview and quick navigation to related notes.
-3. **Search for Tags**: Find notes based on specific technologies, skills, or projects using tags.
+3. **Search for Tags**: Find notes based on specific technologies, skills, or projects using tags. (using `Ctrl + K` for global search)
 4. **Follow My Thought Process**: Discover how I approach problem-solving by reading project breakdowns and reflections.
 5. **Apply What You Learn**: Adapt the structure or insights from this PKM to your own projects and workflows.
 
