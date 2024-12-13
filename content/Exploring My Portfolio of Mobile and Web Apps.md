@@ -2,15 +2,40 @@
 title: Exploring My Portfolio of Mobile and Web Apps
 draft: false
 tags: 
-date: 2024-12-12T16:45:07+07:00
+date: 2024-12-13T14:19:22+07:00
 ---
-### Exploring My Portfolio of Mobile and Web Apps 🎨✨🌟
+# Exploring My Portfolio of Mobile and Web Apps 🎨✨🌟
 
 In this article, I’ll share a detailed overview of the various mobile and web apps I’ve developed, ranging from tools and games to educational and entertainment applications. This compilation reflects my journey as a developer, showcasing completed projects, those still in progress, and even some that were dropped or suspended along the way. Let’s dive in! 🌍📱🚀
 
 ---
 
-#### 1. **Sức khoẻ GenZ Landing Page** 🎯📖🖥️
+##  **ABlink Landing Page** 🚀📱💬
+- **Type**: Landing Page
+- **Platform**: Web
+- **Tech**: HTML/CSS/JavaScript
+- **Description**: 
+	- Initial release of ABlink - Your shortcut to seamless sharing.  
+	- Create, customize, and manage dynamic shortcuts for quick access.  
+	- Integrated with a clean and intuitive UI for smooth navigation.  
+	- Support for in-app purchases to unlock additional shortcut slots.  
+	- Personalized shortcut options with editable names and avatars.  
+	- Improved sharing experience through pre-defined content and deep linking.
+- **Tags**: #LandingPage #WebDevelopment #MessengerIntegration
+- **Status**: [Live](https://khoa-nguyen-bk18.github.io/ABlink/)
+## **ABlink: Messenger Shortcut** 📱🔗🔒
+
+- **Type**: Mobile Application
+- **Platform**: Android
+- **Tech**: Kotlin, Android SDK, Google Play Services
+- **Description**: Welcome to ABlink - Share smarter and faster!. 
+	- 🌟 Key Features:  
+	- Quickly share with pre-defined shortcuts.  
+	- Create and customize shortcuts with avatars.  
+	- Unlock more slots via in-app purchases.  
+- **Tags**: #AndroidApp #Kotlin #MessengerIntegration
+- **Status**: [Live](https://play.google.com/store/apps/details?id=com.devindie.directsharemessenger)
+## **Sức khoẻ GenZ Landing Page** 🎯📖🖥️
 - **Type**: Landing Page  
 - **Platform**: Web  
 - **Tech**: HTML/CSS  
@@ -18,7 +43,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #LandingPage #WebDevelopment #SexEd  
 - **Status**: [Live](https://suc-khoe-gen-z-landing-page.web.app/)
 
-#### 2. **SexEd** 📚💬📲
+## **SexEd** 📚💬📲
 - **Type**: Web App  
 - **Platform**: Web App/Mobile (not published)  
 - **Tech**: Flutter  
@@ -26,7 +51,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #WebApp #Flutter #GenZ #HealthEducation  
 - **Status**: [Down](https://suc-khoe-gen-z.web.app/)
 
-#### 3. **Act Fast - Easy Mode** 🕹️⚡🖐️
+## **Act Fast - Easy Mode** 🕹️⚡🖐️
 - **Type**: Game  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -34,7 +59,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #MobileGame #AndroidNative #QuickReactionGames  
 - **Status**: Unpublished
 
-#### 4. **Act Fast** 🚀🏃‍♂️🎮
+## **Act Fast** 🚀🏃‍♂️🎮
 - **Type**: Game  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -42,7 +67,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #MobileGame #AndroidNative #ChallengeGames  
 - **Status**: Unpublished
 
-#### 5. **Pet Life** 🐾💖📸
+## **Pet Life** 🐾💖📸
 - **Type**: Entertainment  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -50,7 +75,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #EntertainmentApp #PetCommunity #AndroidNative  
 - **Status**: Unpublished
 
-#### 6. **Animal Wallpaper** 🌄🐒🖼️
+## **Animal Wallpaper** 🌄🐒🖼️
 - **Type**: Tools/Lifestyle  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -58,14 +83,14 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #LifestyleApp #WallpaperApp #AndroidNative  
 - **Status**: Dropped
 
-#### 7. **DevInDie App Store** 🛍️📂🌐
+## **DevInDie App Store** 🛍️📂🌐
 - **Type**: Web/Collections  
 - **Platform**: Website  
 - **Description**: A centralized hub for all my app projects, designed to showcase my work and make it accessible to users. The site is intended as a portfolio for potential collaborators and users alike.  
 - **Tags**: #Portfolio #WebDevelopment #AppCollection  
 - **Status**: Pending
 
-#### 8. **RandVid** 🎥😂📱
+## **RandVid** 🎥😂📱
 - **Type**: Entertainment  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -73,7 +98,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #EntertainmentApp #9gagAPI #AndroidNative  
 - **Status**: Suspended by Google
 
-#### 9. **TikGet** 🎵📥🔧
+##  **TikGet** 🎵📥🔧
 - **Type**: Tools  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -81,7 +106,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #UtilityApp #TikTokDownloader #AndroidNative  
 - **Status**: Unpublished
 
-#### 10. **Metro HCM** 🚇📊🛠️
+##  **Metro HCM** 🚇📊🛠️
 - **Type**: Tools  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -89,7 +114,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #TransportationApp #MetroInfo #AndroidNative  
 - **Status**: Dropped
 
-#### 11. **ARBuilding** 🏛️📲📏
+##  **ARBuilding** 🏛️📲📏
 - **Type**: Tools  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -97,7 +122,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #AugmentedReality #3DVisualization #AndroidNative  
 - **Status**: Dropped
 
-#### 12. **ModelBuilding** 🧱📐🌌
+##  **ModelBuilding** 🧱📐🌌
 - **Type**: Tools  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -105,7 +130,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #ARApp #3DModels #AndroidNative  
 - **Status**: Dropped
 
-#### 13. **DHBC - New Style** 🎨🤔🎲
+##  **DHBC - New Style** 🎨🤔🎲
 - **Type**: Game  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -113,7 +138,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #MobileGame #Pictionary #AndroidNative  
 - **Status**: Unpublished
 
-#### 14. **Newsound: Báo nói mới nhất 24h** 🗞️🔊🕒
+##  **Newsound: Báo nói mới nhất 24h** 🗞️🔊🕒
 - **Type**: News App  
 - **Platform**: Mobile  
 - **Tech**: Kotlin Multiplatform Mobile (KMM)  
@@ -121,7 +146,7 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 - **Tags**: #NewsApp #TextToSpeech #KotlinMultiplatform  
 - **Status**: Unpublished
 
-#### 15. **Petroleum Dictionary: Từ điển dầu khí** 🛢️📖🔍
+##  **Petroleum Dictionary: Từ điển dầu khí** 🛢️📖🔍
 - **Type**: Dictionary App  
 - **Platform**: Mobile  
 - **Tech**: Android Native  
@@ -131,6 +156,6 @@ In this article, I’ll share a detailed overview of the various mobile and web 
 
 ---
 
-### Reflections on the Journey 🌟🔄📚
+# Reflections on the Journey 🌟🔄📚
 This portfolio captures a mix of projects that highlight my strengths and passions. Each app, whether live, unpublished, or discontinued, represents a learning experience and contributes to my growth as a developer. By sharing this list, I hope to inspire others to pursue their creative ideas and learn from every stage of app development. 🌈💡📖
 
