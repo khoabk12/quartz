@@ -1,8 +1,13 @@
 ---
 title: How to Fix Gradle and Java Compatibility Issues in Android Studio Ladybug
 draft: false
-tags: [Gradle, Java Compatibility, Kotlin, Android Studio, KMM]
-date: 2024-12-12T13:52:45+07:00
+tags:
+  - Gradle
+  - Java Compatibility
+  - Kotlin
+  - Android Studio
+  - KMM
+date: 2024-12-18T11:24:08+07:00
 ---
 
 
