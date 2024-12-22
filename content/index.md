@@ -3,8 +3,7 @@ title: Welcome to My PKM
 draft: false
 tags:
   - PKM
-  - Knowledge_Hub
-date: 2024-12-12T13:55:07+07:00
+date: 2024-12-18T16:29:02+07:00
 ---
 # Welcome to Nguyen Dang Khoa's Personal Knowledge Management (PKM)
 
@@ -45,7 +44,7 @@ This PKM is designed for:
 - Anyone curious about how a developer organizes and leverages knowledge for growth and problem-solving.
 
 ### Tags
-#Audience #Developers #Technologists #ProjectManagement #Workflow
+#Audience #Developers #ProjectManagement 
 
 ## How to Use This
 1. **Browse the Knowledge Hubs**: Explore topics like mobile development, automation, and project management through linked notes and tags.
@@ -55,7 +54,7 @@ This PKM is designed for:
 5. **Apply What You Learn**: Adapt the structure or insights from this PKM to your own projects and workflows.
 
 ### Tags
-#HowTo #KnowledgeHubs #MOCs #Tags #ProblemSolving
+#HowTo #KnowledgeHubs #MOCs #ProblemSolving
 
 Thank you for visiting! I hope you find this PKM system insightful, helpful, and inspiring.
 

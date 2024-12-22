@@ -2,7 +2,7 @@
 title: "ABlink: Coding the Customizable Widget (Part 3)"
 draft: false
 tags: 
-date: 2024-12-18T13:55:01+07:00
+date: 2024-12-21T16:02:33+07:00
 ---
 Here is the reformatted markdown to display correctly in Quartz (Obsidian):
 

@@ -2,7 +2,7 @@
 title: "ABlink: Building the Perfect 1x1 Widget (Part 2)"
 draft: false
 tags: 
-date: 2024-12-18T11:24:08+07:00
+date: 2024-12-18T16:27:55+07:00
 ---
 **TL;DR:** I designed a simple 1x1 widget with options for avatar size, cropping styles, editable title, hide title, and contact selection. Inspired by Shortcut Maker, but simpler for users.
 
@@ -54,6 +54,6 @@ On Day 3, I’ll focus on implementing these features and ensuring the widget ru
 ![[Pasted image 20241218110737.webp|554]]
 
 **Tags:**  
-#ABlink #AndroidDevelopment #Widgets #HomeScreenWidgets #UXDesign #AvatarCustomization #ShortcutCustomization #AndroidOS
+#ABlink #Widgets #HomeScreenWidgets #UXDesign #AvatarCustomization #ShortcutCustomization #AndroidOS
 
 ---
