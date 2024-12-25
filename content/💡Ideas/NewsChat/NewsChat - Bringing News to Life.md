@@ -2,7 +2,7 @@
 title: "NewsChat: Bringing News to Life"
 draft: false
 tags: 
-date: 2024-12-22T16:46:32+07:00
+date: 2024-12-25T16:49:03+07:00
 ---
 ![[Pasted image 20241222164022.webp]]
 ![[Pasted image 20241222162107.webp]]
@@ -83,3 +83,5 @@ The duo knows they have their work cut out for them. There’s coding to do, AI 
 As they dive back into their laptops, it’s clear that _NewsChat_ is more than just an app—it’s a new way to engage with the stories that shape our world, one chat bubble at a time.
 
 ---
+
+[[MVP - Part 1]]
