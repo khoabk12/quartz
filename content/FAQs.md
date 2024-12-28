@@ -12,11 +12,11 @@ If you have any questions related to my Personal Knowledge Management (PKM) syst
 2. **LinkedIn**: [Visit My LinkedIn Profile](https://www.linkedin.com/in/khoanguyenbk18/)
 3. **WhatsApp/Telegram/Zalo**: [WhatsApp](https://wa.me/84766306965) / [Telegram](https://t.me/84766306965) / [Zalo](https://zalo.me/84766306965)
    - **WhatsApp QR Code**:
-	   - ![[Pasted image 20241213143813.png]]
+	   - ![[Pasted image 20241213143813.webp]]
    - **Telegram QR Code**: 
-	   - ![[Pasted image 20241213143751.png]]
+	   - ![[Pasted image 20241213143751.webp]]
    - **Zalo QR Code**:
-	   - ![[Pasted image 20241213144501.png]]
+	   - ![[Pasted image 20241213144501.webp]]
 
 Any questions sent to me will be answered, and I will also update this page with the relevant information to help others who might have similar queries.
 
