@@ -4,6 +4,7 @@ draft: false
 tags: 
 date: 2024-12-18T16:27:55+07:00
 ---
+![[Pasted image 20250101095418.webp]]
 **TL;DR:** I designed a simple 1x1 widget with options for avatar size, cropping styles, editable title, hide title, and contact selection. Inspired by Shortcut Maker, but simpler for users.
 
 ---

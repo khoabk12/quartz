@@ -4,7 +4,7 @@ draft: false
 tags: 
 date: 2024-12-22T15:36:03+07:00
 ---
-
+![[Pasted image 20250101093916.webp|791]]
 ![[Pasted image 20241228174445.webp|193]]
 ![[Pasted image 20241228174639.webp|190]]
 
@@ -18,8 +18,10 @@ We’ve redesigned our app’s UI to move away from a Messenger-style chat to a 
 
 We noticed that using a Messenger-like design for posts wasn’t working well. It felt cluttered, like annoying ads, and wasn’t enjoyable to use. So, we made a big shift:
 
-- **New Design**: Posts now look like entries in a Facebook feed—familiar and easy to follow.
-- **Comment Section**: Instead of opening on a new screen, comments now appear in a bottom sheet. This keeps the post in view, making it easier to stay connected to the conversation.
+- **New Design**: 
+	- Posts now look like entries in a Facebook feed—familiar and easy to follow.
+- **Comment Section**: 
+	- Instead of opening on a new screen, comments now appear in a bottom sheet. This keeps the post in view, making it easier to stay connected to the conversation.
 
 ---
 

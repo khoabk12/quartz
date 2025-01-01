@@ -6,6 +6,8 @@ date: 2024-12-25T16:49:03+07:00
 ---
 ![[Pasted image 20241222164022.webp]]
 ![[Pasted image 20241222162107.webp]]
+
+![[Pasted image 20250101095355.webp]]
 ### Turning News into Conversations: How Two IT Developers Are Reinventing News Consumption with _NewsChat_
 
 #NewsApp #Innovation #Android #Developers #ProblemSolving #Audience_

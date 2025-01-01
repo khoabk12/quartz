@@ -7,6 +7,7 @@ tags:
   - AndroidApp
 date: 2024-12-25T16:48:46+07:00
 ---
+![[Pasted image 20250101094247.webp]]
 ### TL;DR
 
 NewsChat is turning articles into fun comment sections packed with slang, memes, and emojis for Gen Z vibes. It’s creative, sometimes awkward, but definitely worth improving. The goal? Make reading feel like a group chat, not homework. 🎉
