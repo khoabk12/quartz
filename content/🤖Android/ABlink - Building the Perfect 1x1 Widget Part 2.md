@@ -2,7 +2,7 @@
 title: "ABlink: Building the Perfect 1x1 Widget (Part 2)"
 draft: false
 tags: 
-date: 2024-12-18T16:27:55+07:00
+date: 2025-01-02T14:16:50+07:00
 ---
 **TL;DR:** I designed a simple 1x1 widget with options for avatar size, cropping styles, editable title, hide title, and contact selection. Inspired by Shortcut Maker, but simpler for users.
 
@@ -47,6 +47,11 @@ Here’s what users can customize:
 ### Keeping It Simple
 
 The goal is to give users enough flexibility without wasting their time. With these options, anyone can set up a clean and functional shortcut in just a few taps.
+
+---
+date: 2025-01-02T14:16:15+07:00
+---
+``No valid YouTube link found in the clipboard.``
 
 **What’s Next?**  
 On Day 3, I’ll focus on implementing these features and ensuring the widget runs smoothly on different devices.

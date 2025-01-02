@@ -2,7 +2,7 @@
 title: 
 draft: true
 tags: []
-date: 2024-12-25T16:46:06+07:00
+date: 2025-01-02T09:56:47+07:00
 ---
 
 ```dataview
