@@ -1,5 +1,5 @@
 ---
-title: "ABlink: Coding the Customizable Widget (Part 3)"
+title: Coding the Customizable Widget (Part 3)
 draft: false
 tags: 
 date: 2025-01-02T14:03:17+07:00

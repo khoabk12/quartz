@@ -1,5 +1,5 @@
 ---
-title: Ablink - Marketing Actionable Plan
+title: Marketing Actionable Plan (Draft)
 draft: false
 tags:
   - Marketing

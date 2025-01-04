@@ -1,7 +1,8 @@
 ---
-title: "NewsChat: Bringing News to Life"
+title: Bringing News to Life
 draft: false
-tags: 
+tags:
+  - NewsChat
 date: 2024-12-25T16:49:03+07:00
 ---
 ![[Pasted image 20241222164022.webp]]

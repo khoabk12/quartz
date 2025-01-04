@@ -1,13 +1,11 @@
 ---
 title: "UI Update: From Messenger to Facebook-Inspired Post Style"
 draft: false
-tags: 
+tags:
+  - NewsChat
 date: 2024-12-22T15:36:03+07:00
 ---
 ![[Pasted image 20250101093916.webp|791]]
-![[Pasted image 20241228174445.webp|193]]
-![[Pasted image 20241228174639.webp|190]]
-
 ### TL;DR
 
 We’ve redesigned our app’s UI to move away from a Messenger-style chat to a Facebook-inspired post feed. Posts are now more readable and engaging, and comments open in a bottom sheet to keep everything on the same screen. It’s simpler, easier to use, and feels more natural. 🎉

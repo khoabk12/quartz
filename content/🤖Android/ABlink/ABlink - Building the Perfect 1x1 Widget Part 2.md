@@ -1,5 +1,5 @@
 ---
-title: "ABlink: Building the Perfect 1x1 Widget (Part 2)"
+title: Building the Perfect 1x1 Widget (Part 2)
 draft: false
 tags: 
 date: 2025-01-02T14:16:50+07:00

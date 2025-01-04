@@ -2,9 +2,9 @@
 title: "Turning Articles into Chat Rooms: NewsChat's Fun Experiment"
 draft: false
 tags:
-  - NewsApp
   - GenZ
   - AndroidApp
+  - NewsChat
 date: 2024-12-25T16:48:46+07:00
 ---
 ![[Pasted image 20250101094247.webp]]
