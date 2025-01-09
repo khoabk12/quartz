@@ -1,10 +1,17 @@
 ---
 title: 3 Things Pro Badminton Players Do On Their Smash (that you should too)
+description: This blog post explores three fundamental techniques used by professional badminton players to enhance their smash, focusing on maximizing rotation, speed, and placement. It also includes insights from Olympic champion Zheng Siwei on the importance of effective smashing.
 draft: false
-tags: 
-date: 2025-01-08T23:19:04+07:00
+tags:
+  - Badminton/Smash
+  - Badminton/Tutorial
+date: 2025-01-09T09:42:45+07:00
 ---
-![YouTube Link](https://www.youtube.com/watch?v=anFnw6ZvIfk)
+Find more at:
+- [[Badminton SMASH Tutorial - Improve Your POWER and Timing!]]
+---
+Credit: https://www.youtube.com/@BadmintonInsight
+
 
 ![[Pasted image 20250108215046.webp]]
 
@@ -45,7 +52,6 @@ date: 2025-01-08T23:19:04+07:00
 Mastering the Smash: Three Key Techniques from Pro Badminton Players
 
 TLDR: This blog post explores three fundamental techniques used by professional badminton players to enhance their smash, focusing on maximizing rotation, speed, and placement. It also includes insights from Olympic champion Zheng Siwei on the importance of effective smashing.
-
 
 
 If you observe the world's top badminton smashers, you'll notice that while their techniques may vary, they all share three fundamental practices that enable them to generate immense power in their smashes. This article will break down these techniques and provide actionable tips to help you improve your smash, regardless of your skill level. Stay tuned for insights from Olympic champion Zheng Siwei on what he considers the most crucial aspect of a smash.
