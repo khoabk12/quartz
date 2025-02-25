@@ -1,7 +1,7 @@
 ---
 title: Kho Meme draft
 description: 
-draft: false
+publish: true
 tags: 
 date: 2025-01-29T17:07:06+07:00
 ---

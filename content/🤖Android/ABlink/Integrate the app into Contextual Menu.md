@@ -1,7 +1,7 @@
 ---
 title: "Introducing a Powerful New Feature in ABlink: Contextual Menu Integration"
 description: Quick share with Right menu context
-draft: false
+publish: true
 tags:
   - AndroidApp
   - ABlink

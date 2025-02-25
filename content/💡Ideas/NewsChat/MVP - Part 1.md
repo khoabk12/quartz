@@ -1,6 +1,6 @@
 ---
 title: "Turning Articles into Chat Rooms: NewsChat's Fun Experiment"
-draft: false
+publish: true
 tags:
   - GenZ
   - AndroidApp

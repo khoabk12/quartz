@@ -1,6 +1,6 @@
 ---
 title: Bringing News to Life
-draft: false
+publish: true
 tags:
   - NewsChat
 date: 2024-12-25T16:49:03+07:00

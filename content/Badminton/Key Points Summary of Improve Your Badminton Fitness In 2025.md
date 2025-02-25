@@ -1,7 +1,7 @@
 ---
 title: Key Points Summary of "Improve Your Badminton Fitness In 2025
 description: 
-draft: false
+publish: true
 tags: 
 date: 2025-02-04T18:43:05+07:00
 ---

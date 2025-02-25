@@ -1,6 +1,6 @@
 ---
 title: Marketing Actionable Plan (Draft)
-draft: false
+publish: true
 tags:
   - Marketing
   - ABlink

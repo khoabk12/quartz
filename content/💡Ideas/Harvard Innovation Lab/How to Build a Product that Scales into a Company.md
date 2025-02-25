@@ -1,7 +1,7 @@
 ---
 title: How to Build a Product that Scales into a Company
 description: “Build it, and they will come” is a dangerous mindset in the startup world. Even if you create a great product, building a successful company around it can be nuanced and challenging. In addition to product development, you need to find and prove product-market fit—then repeat and scale through sales and marketing.
-draft: false
+publish: true
 tags: 
 date: 2025-02-03T14:42:26+07:00
 ---

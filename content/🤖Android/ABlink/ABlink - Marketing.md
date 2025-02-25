@@ -1,6 +1,6 @@
 ---
 title: Marketing Strategy
-draft: false
+publish: true
 tags:
   - ABlink
   - Android

@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (FAQ)
-draft: false
+publish: true
 tags: 
 date: 2024-12-13T14:45:11+07:00
 ---

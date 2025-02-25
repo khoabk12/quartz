@@ -1,7 +1,7 @@
 ---
 title: Badminton SMASH Tutorial - Improve Your POWER and Timing!
 description: This comprehensive guide explores the essential techniques and tips for improving your badminton smash, focusing on power generation, timing, and proper positioning. It emphasizes the importance of body rotation, grip, and practice to enhance your performance on the court.
-draft: false
+publish: true
 tags:
   - Badminton/Smash
   - Badminton/Tutorial

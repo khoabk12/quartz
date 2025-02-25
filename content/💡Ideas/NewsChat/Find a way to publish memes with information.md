@@ -1,6 +1,6 @@
 ---
 title: Find a way to publish memes with information
-draft: false
+publish: true
 tags: 
 date: 2024-12-22T15:36:03+07:00
 ---

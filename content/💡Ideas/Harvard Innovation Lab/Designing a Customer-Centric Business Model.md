@@ -1,7 +1,7 @@
 ---
 title: Designing a Customer-Centric Business Model
 description: 
-draft: false
+publish: true
 tags: 
 date: 2025-01-31T10:12:51+07:00
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fixing Contact Shortcuts on Android (Part 1)
-draft: false
+publish: true
 tags: 
 date: 2024-12-18T13:55:54+07:00
 ---

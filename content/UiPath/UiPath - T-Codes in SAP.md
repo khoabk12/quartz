@@ -1,7 +1,7 @@
 ---
 title: T-Codes in SAP vs Deeplink in Mobile Development?
 description: 
-draft: false
+publish: true
 tags:
   - SAP/T-Codes
 date: 2025-01-10T11:17:02+07:00

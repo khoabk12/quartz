@@ -1,7 +1,7 @@
 ---
 title: "From Two Developers to a Featured App: The Challenges and Triumphs of ELSA Speak"
 description: In this blog post, we delve into the inspiring journey of ELSA Speak, an English learning application co-founded by Vu. This app has gained significant recognition, recently being featured as one of the standout applications on the App Store. The discussion highlights the challenges faced during its development, the importance of understanding user needs, and the strategies that led to its success.
-draft: false
+publish: true
 tags: 
 date: 2025-01-21T14:00:04+07:00
 ---

@@ -1,7 +1,7 @@
 ---
 title: 3 Things Pro Badminton Players Do On Their Smash (that you should too)
 description: This blog post explores three fundamental techniques used by professional badminton players to enhance their smash, focusing on maximizing rotation, speed, and placement. It also includes insights from Olympic champion Zheng Siwei on the importance of effective smashing.
-draft: false
+publish: true
 tags:
   - Badminton/Smash
   - Badminton/Tutorial

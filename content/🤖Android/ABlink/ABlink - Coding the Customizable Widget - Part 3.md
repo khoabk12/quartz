@@ -1,6 +1,6 @@
 ---
 title: Coding the Customizable Widget (Part 3)
-draft: false
+publish: true
 tags: 
 date: 2025-01-02T14:03:17+07:00
 ---

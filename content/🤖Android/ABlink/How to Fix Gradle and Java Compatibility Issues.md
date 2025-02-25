@@ -1,6 +1,6 @@
 ---
 title: How to Fix Gradle and Java Compatibility Issues in Android Studio Ladybug
-draft: false
+publish: true
 tags:
   - Gradle
   - Java Compatibility
