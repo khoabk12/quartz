@@ -7,7 +7,7 @@ tags:
   - Gamify
   - EldenRing
   - Stoic
-date: 2025-02-03T16:18:38+07:00
+date: 2025-02-25T09:24:06+07:00
 ---
 Here is a detailed table of **Apache PDFBox** features, with a focus on extracting text and its format, along with whether it supports these functionalities directly.
 
