@@ -1,20 +1,22 @@
 ---
-date: 2025-03-21T15:54:31+07:00
+date: 2025-03-23T07:54:38+07:00
 ---
+```table-of-contents
+```
+
 # Web App Thích Cầu Lông 🏸
 ## 🧭 Goal
 
 > [!NOTE] Introduction
 > Tìm kiếm nhóm cầu lông vãng lai nhanh và chính xác
 
-## Features & Tasks
+### Features & Tasks
 
-| No  | Feature                | As A User, I want to                                                         | So That I Can                         | Tasks                                                                                                                                     |
-| --- | ---------------------- | ---------------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | View Posts             | View all the post,                                                           | View all the brief of the posts       | - [ ] Show the list all the post, lazy loading, 20 posts each time, sorted by created date as default. The card will show all information |
-| 2   | View Post Detail       | View Post detail by expanding in the list                                    | View the detail of the post           | - [ ] The all detail of that post                                                                                                         |
-| 3   | Filter                 | filter based on my criteria                                                  | Only get posts that fit with my needs | - [ ] Have all the filters of all columns, combine with AND (ex: only get post which have hour at 4pm-6pm, at T19 field court)            |
-| 4   | Check today's avalable | Quickly see at current time, current place, Which group have available slots | Quickly contact and register          | - [ ] get current time and location to filter, sort the available post by: time play (sooner->later) > location (near - far)              |
+| No  | Feature                | As A User, I want to                                                         | So That I Can                   | Tasks                                                                                                                                     |
+| --- | ---------------------- | ---------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | View Posts             | View all the post,                                                           | View all the brief of the posts | - [ ] Show the list all the post, lazy loading, 20 posts each time, sorted by created date as default. The card will show all information |
+| 2   | View Post Detail       | View Post detail by expanding in the list                                    | View the detail of the post     | - [ ] The all detail of that post                                                                                                         |
+| 4   | Check today's avalable | Quickly see at current time, current place, Which group have available slots | Quickly contact and register    | - [ ] get current time and location to filter, sort the available post by: time play (sooner->later) > location (near - far)              |
 
 ## Sprint 1. Prepare Data
 ## Sprint 2. Setup Env
@@ -38,7 +40,6 @@ date: 2025-03-21T15:54:31+07:00
 | No  | Feature                       | As A User, I want to                                                                | So That I Can                                                                       | Tasks                                             |
 | --- | ----------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------- |
 | 1   | Save file in Zalo Android Mod | Save all file(s) when receiving new file from Zalo Notification without openning it | Retrieve that file later without worrying it will be deleted after a period of time | - [ ] Find a proper approach to mod an apks       |
-|     |                               |                                                                                     |                                                                                     | - [ ] Find resource how to patch/mod an apk files |
 
 ## Sprint 1. Prepare Knowledge
 
@@ -123,6 +124,6 @@ date: 2025-03-21T15:54:31+07:00
 
 # Hobby: Badminton 🏸
 
-| No  | Feature                   | User Story | Tasks |
-| --- | ------------------------- | ---------- | ----- |
-| 1   | Book Importer and Analyst |            |       |
+| No  | Feature | User Story | Tasks |
+| --- | ------- | ---------- | ----- |
+| 1   |         |            |       |

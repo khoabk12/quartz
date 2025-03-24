@@ -1,23 +1,21 @@
 ---
-
-kanban-plugin: board
-date: 2025-03-21T14:01:33+07:00
-
+kanban-plugin: list
+date: 2025-03-23T08:50:28+07:00
 ---
 
-## Wiki - Project
+## Wiki
 
-- [ ] [[Project's Dashboard#Web App Thích Cầu Lông]]
-- [ ] [[Project's Dashboard#Zalo Mod/Patches]]
-- [ ] [[Project's Dashboard#Obsidian SecondBrain]]
-- [ ] [[Project's Dashboard#Journaling and Get insight weekly]]
-- [ ] [[Project's Dashboard#Psychology]]
-- [ ] [[Project's Dashboard#Buddhist]]
-- [ ] [[Project's Dashboard#Christian]]
-- [ ] [[Project's Dashboard#Sketching]]
+- [ ] [[Project's Dashboard]]
 
 
-## Todo - Feature
+## Todo - Recurrent
+
+- [ ] Reading [[Clippings]] - 30'
+- [ ] [[Speaking English]] - 1h
+- [ ] Check Daily Notes - 30'
+
+
+## Todo - One Shot
 
 
 
@@ -33,6 +31,6 @@ date: 2025-03-21T14:01:33+07:00
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false]}
 ```
 %%
